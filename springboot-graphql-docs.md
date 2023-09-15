@@ -1,3 +1,10 @@
+# Introduction
+
+- This markdown consist of the notes I derived from the official spring boot graphql documentation
+- This is to summarize and help me better understand the entire documentation
+
+---
+
 # 3.1 GraphQLSource
 
 For further customizations, can declare `GraphQlSourceBuilderCustomizer` bean
